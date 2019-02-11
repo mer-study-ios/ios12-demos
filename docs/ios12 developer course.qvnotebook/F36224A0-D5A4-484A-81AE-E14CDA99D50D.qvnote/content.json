@@ -1,0 +1,96 @@
+{
+  "title": "3 - Swift 4 Deep Dive",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<h3>Introducing Variables&nbsp;</h3>"
+    },
+    {
+      "type": "text",
+      "data": "Swift-Primer"
+    },
+    {
+      "type": "text",
+      "data": "<b>var and let</b>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "// value can be changed\nvar str = \"Hello, playground\""
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "// value can't be changed \nlet otherStr = \"Hi, Mer\""
+    },
+    {
+      "type": "text",
+      "data": "<b>Strings</b>"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Concatenation<br></li></ul>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "let name = \"Mer\"\n// concatenation\nprint(\"Hello \" + name)"
+    },
+    {
+      "type": "text",
+      "data": "<b>Integer (whole number)</b>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "let myInt = 8"
+    },
+    {
+      "type": "text",
+      "data": "<ul><li>Put integer into string&nbsp;</li></ul>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "var age = 35\n// Put integer into string\nprint(\"My age is \\(age)\")"
+    },
+    {
+      "type": "text",
+      "data": "<b>Doubles and Floats</b>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "var a: Double = 8.73\nvar b: Float = 8.73\nvar c = 7.12"
+    },
+    {
+      "type": "text",
+      "data": "<b>Boolean</b>"
+    },
+    {
+      "type": "code",
+      "language": "swift",
+      "data": "let gameOver = false"
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    },
+    {
+      "type": "text",
+      "data": ""
+    }
+  ]
+}

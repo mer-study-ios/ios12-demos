@@ -6,4 +6,5 @@ Notes and Code examples from this
 
 ## Demo Apps List
 
-1.Interacting with buttons
+1.Interacting with buttons  
+2. Swift-Primer (Playground)
